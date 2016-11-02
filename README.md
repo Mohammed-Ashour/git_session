@@ -1,9 +1,13 @@
 # git_session
-data for git session 
+data for git session
 
 
 
-count = 1
+count = 5
 
-names : Alaa
-
+names :
+Waleed Yaser
+Mohammed Ashour
+Alaa
+Aya Ayman
+Hagar
