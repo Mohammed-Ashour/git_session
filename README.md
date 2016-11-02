@@ -7,4 +7,4 @@ count = 2
 
 names :
 Waleed Yaser
-baakkkkaaaaaa Mohammed Ashour
+Mohammed Ashour
