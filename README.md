@@ -7,9 +7,7 @@ count = 5
 
 names :
 Waleed Yaser
-<<<<<<< HEAD
-baakkkkaaaaaa Mohammed Ashour
+Mohammed Ashour
+Alaa
+Aya Ayman
 Hagar
-youssef
-=======
-
